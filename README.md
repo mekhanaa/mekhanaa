@@ -1,9 +1,12 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20-%3E%20Technology&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+</div>
+
+<div align="center">
 
   MCA Student @ CUSAT | BSc Mathematics, MG University | Aspiring Data Professional
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mekhana_Rajesh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekhana-rajesh)
-  ![Profile Views](https://komarev.com/ghpvc/?username=mekhanaa&style=flat-square&color=2c5364)
 
 </div>
 
@@ -62,19 +65,6 @@ mekhana = {
 | Voice of Stakeholders (VoS) -- Young Innovators | Kerala Development and Innovation Strategic Council |
 | Python Programming | Youth Employability Skill Training Co-op |
 | Super Searchers Workshop | upEducators |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mekhanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=a8d8ea&icon_color=a8d8ea&text_color=ffffff&bg_color=0d1117" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhanaa&layout=compact&theme=tokyonight&hide_border=true&title_color=a8d8ea&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mekhanaa&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
