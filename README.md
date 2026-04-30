@@ -19,6 +19,7 @@ mekhana = {
     "name"        : "Mekhana Rajesh",
     "location"    : "Kerala, India",
     "education"   : ["MCA @ CUSAT (2025 - Present)", "BSc Mathematics @ MG University (2021 - 2024)"],
+    "achievement" : "CAT Rank 12",
     "interests"   : ["Data Science", "Statistical Analysis", "Programming Languages"],
     "currently"   : "Learning DSA, ML and SQL",
     "edge"        : "Strong mathematical reasoning guiding technical growth"
