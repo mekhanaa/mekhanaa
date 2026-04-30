@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20-%3E%20Technology&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Math%20-%3E%20Tech&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -34,6 +34,7 @@ mekhana = {
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
