@@ -1,35 +1,3 @@
-
-<div align="center">  <!-- Animated header banner -->  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20â†’%20Technology&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>  </div>  <div align="center">  MCA Student @ CUSAT  Â·  BSc Mathematics, MG University  Â·
-
-
-
-
-
-</div>  
----
-
-ðŸŒŸ About Me
-
-mekhana = {  
-    "name"        : "Mekhana Rajesh",  
-    "location"    : "Kerala, India ðŸ‡®ðŸ‡³",  
-    "education"   : ["MCA @ CUSAT (2025â€“Present)", "BSc Mathematics @ MG University (2021â€“2024)"],
-    "interests"   : ["Data Science", "Statistical Analysis", "Programming languages"],  
-    "currently"   : "Learning DSA, ML & SQL",
-    "edge" : "Building technical competence on a strong math foundation"
-}
-
-> "My BSc Mathematics foundation gives me a unique edge â€” I don't just write code, I understand the logic and mathematics behind every algorithm."
-
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mathematics%20-%3E%20Technology&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
-</div>
-
 <div align="center">
 
   MCA Student @ CUSAT | BSc Mathematics, MG University | Aspiring Data Professional
