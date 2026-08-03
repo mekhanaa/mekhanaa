@@ -19,8 +19,8 @@ mekhana = {
     "name"        : "Mekhana Rajesh",
     "location"    : "Kerala, India",
     "education"   : ["MCA @ CUSAT (2025 - Present)", "BSc Mathematics @ MG University (2021 - 2024)"],
-    "interests"   : ["Data Science", "Statistical Analysis", "Programming Languages"],
-    "currently"   : "Learning DSA, ML and SQL",
+    "interests"   : ["Data Science", "AI & Machine Learning", "Statistical Analysis", "Programming Languages "],
+    "currently"   : "Learning DSA, ML, RAG system and SQL",
     "edge"        : "Strong mathematical reasoning guiding technical growth"
 }
 ```
@@ -98,8 +98,7 @@ Flask | Python | SQLite | Data Visualization
 
 ![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-Learning-FF6B35?style=flat-square)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-Improving-8B5CF6?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Exploring-9333EA?style=flat-square)
-![Advanced SQL](https://img.shields.io/badge/Advanced_SQL-Query_Optimization-4479A1?style=flat-square)
+![Cloud computing](https://img.shields.io/badge/Deep_Learning-Exploring-9333EA?style=flat-square)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-RAG_and_LLMs-10A37F?style=flat-square)
 ![Backend Development](https://img.shields.io/badge/Backend_Development-APIs_and_Services-009688?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-Basics-2563EB?style=flat-square)
