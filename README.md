@@ -7,6 +7,7 @@
   MCA Student @ CUSAT | Mathematics Graduate | AI & Data Enthusiast
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mekhana_Rajesh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekhana-rajesh)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
