@@ -65,6 +65,16 @@ AI career-intelligence platform for Indian freshers — parses a resume against 
 </td>
 <td width="50%" valign="top">
 
+### 🗺️ SkillMap 2.0
+End-to-end pipeline: resume upload → skill extraction → JD comparison → gap analysis → readiness score → learning roadmap → interview-question prediction → PDF report.
+
+`Flask` `spaCy` `PyMuPDF` `React (Vite)`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💬 Sahachari AI
 A retrieval-augmented chatbot — embeds and reranks documents before generating answers, rather than relying on the LLM alone.
 
@@ -103,6 +113,14 @@ A personal finance tracker with a dark UI, daily/weekly/monthly spend stats, bud
 <br>
 
 ## GitHub Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+</picture>
+</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mekhanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
