@@ -66,37 +66,40 @@ mekhana = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### [Elevora](YOUR_ELEVORA_REPO_LINK)
 
-AI career intelligence platform for analyzing resumes against job descriptions, extracting skills, and identifying relevant skill gaps.
+Career intelligence platform that analyzes resumes against job descriptions, extracts skills, and highlights relevant skill gaps.
 
-`React` `Flask` `Python` `spaCy`
+`React` `Flask`  
+`Python` `spaCy`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### [BudgetCoach](https://github.com/mekhanaa/BudgetCoach)
 
-Personal finance application for tracking expenses, budgets, spending patterns, and financial goals.
+Personal finance application for expense tracking, budgeting, spending analysis, and financial visualization.
 
-`Python` `Flask` `SQLite` `Matplotlib`
+`Python` `Flask`  
+`SQLite` `Matplotlib`
 
 </td>
-</tr>
 
-<tr>
-<td colspan="2" valign="top">
+<td width="33%" valign="top">
 
 ### [Sahachari AI](YOUR_SAHACHARI_REPO_LINK)
 
-RAG-based conversational system for retrieving relevant information from a knowledge base and generating contextual responses.
+RAG-based conversational system designed to retrieve relevant information and generate contextual responses.
 
-`Python` `RAG` `LLM` `ChromaDB`
+`Python` `RAG`  
+`LLM` `ChromaDB`
 
 </td>
+
 </tr>
 </table>
 
