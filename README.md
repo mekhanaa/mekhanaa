@@ -62,50 +62,52 @@ mekhana = {
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
-
+##Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [emoji] [Project Name](repo-link)
-[One or two lines — what it does and who it's for.]
+### [Project Name](https://github.com/yourusername/project-repo)
 
-`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+One or two lines explaining what the project does and who it is for.
+
+`Tech` `Tech` `Tech` `Tech`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [emoji] [Project Name](repo-link)
-[One or two lines — what it does and who it's for.]
+### [Project Name](https://github.com/yourusername/project-repo)
 
-`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+One or two lines explaining what the project does and who it is for.
+
+`Tech` `Tech` `Tech` `Tech`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### [emoji] [Project Name](repo-link)
-[One or two lines — what it does and who it's for.]
+### [Project Name](https://github.com/yourusername/project-repo)
 
-`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+One or two lines explaining what the project does and who it is for.
+
+`Tech` `Tech` `Tech` `Tech`
 
 </td>
+
 <td width="50%" valign="top">
 
-### [emoji] [Project Name](repo-link)
-[One or two lines — what it does and who it's for.]
+### [Project Name](https://github.com/yourusername/project-repo)
 
-`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+One or two lines explaining what the project does and who it is for.
+
+`Tech` `Tech` `Tech` `Tech`
 
 </td>
 </tr>
 </table>
-
-### [emoji] [Project Name](repo-link)
-[One or two lines — what it does and who it's for, for a project that stands alone rather than pairing in the grid above.]
-
-`[Tech]` `[Tech]` `[Tech]`
 
 ## Currently Learning
 
