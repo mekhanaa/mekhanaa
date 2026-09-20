@@ -65,16 +65,6 @@ AI career-intelligence platform for Indian freshers — parses a resume against 
 </td>
 <td width="50%" valign="top">
 
-### 🗺️ SkillMap 2.0
-End-to-end pipeline: resume upload → skill extraction → JD comparison → gap analysis → readiness score → learning roadmap → interview-question prediction → PDF report.
-
-`Flask` `spaCy` `PyMuPDF` `React (Vite)`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 💬 Sahachari AI
 A retrieval-augmented chatbot — embeds and reranks documents before generating answers, rather than relying on the LLM alone.
 
@@ -109,6 +99,19 @@ A personal finance tracker with a dark UI, daily/weekly/monthly spend stats, bud
 | Introduction to Internet of Things | NPTEL |
 | Python Programming | Youth Employability Skill Training Co-op |
 | Super Searchers Workshop | upEducators |
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mekhanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekhanaa&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhanaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
 <br>
 
