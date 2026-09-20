@@ -62,48 +62,39 @@ mekhana = {
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 ---
-##Featured Projects
+## Featured Works
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Project Name](https://github.com/yourusername/project-repo)
+### [Elevora](YOUR_ELEVORA_REPO_LINK)
 
-One or two lines explaining what the project does and who it is for.
+AI career intelligence platform for analyzing resumes against job descriptions, extracting skills, and identifying relevant skill gaps.
 
-`Tech` `Tech` `Tech` `Tech`
+`React` `Flask` `Python` `spaCy`
 
 </td>
 
 <td width="50%" valign="top">
 
-### [Project Name](https://github.com/yourusername/project-repo)
+### [BudgetCoach](https://github.com/mekhanaa/BudgetCoach)
 
-One or two lines explaining what the project does and who it is for.
+Personal finance application for tracking expenses, budgets, spending patterns, and financial goals.
 
-`Tech` `Tech` `Tech` `Tech`
+`Python` `Flask` `SQLite` `Matplotlib`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### [Project Name](https://github.com/yourusername/project-repo)
+### [Sahachari AI](YOUR_SAHACHARI_REPO_LINK)
 
-One or two lines explaining what the project does and who it is for.
+RAG-based conversational system for retrieving relevant information from a knowledge base and generating contextual responses.
 
-`Tech` `Tech` `Tech` `Tech`
-
-</td>
-
-<td width="50%" valign="top">
-
-### [Project Name](https://github.com/yourusername/project-repo)
-
-One or two lines explaining what the project does and who it is for.
-
-`Tech` `Tech` `Tech` `Tech`
+`Python` `RAG` `LLM` `ChromaDB`
 
 </td>
 </tr>
