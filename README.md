@@ -141,3 +141,4 @@ A personal finance tracker with a dark UI, daily/weekly/monthly spend stats, bud
 Open to data science / ML roles — always happy to talk about a project above.
 
 </div>
+
