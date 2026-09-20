@@ -69,7 +69,7 @@ mekhana = {
 
 <td width="33%" valign="top">
 
-### [Elevora](YOUR_ELEVORA_REPO_LINK)
+### [Elevora](https://github.com/mekhanaa/Elevora.git)
 
 Career intelligence platform that analyzes resumes against job descriptions, extracts skills, and highlights relevant skill gaps.
 
