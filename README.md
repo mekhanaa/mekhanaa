@@ -63,24 +63,49 @@ mekhana = {
 
 ---
 
-# Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Elevora — Career Path Engine
+### [emoji] [Project Name](repo-link)
+[One or two lines — what it does and who it's for.]
 
-AI-powered platform that analyzes resumes, extracts skills, compares job descriptions, and provides personalized career insights.
+`[Tech]` `[Tech]` `[Tech]` `[Tech]`
 
-**Tech Stack:**  
-React | Tailwind CSS | Flask | spaCy | Machine Learning | D3.js
+</td>
+<td width="50%" valign="top">
 
+### [emoji] [Project Name](repo-link)
+[One or two lines — what it does and who it's for.]
 
-## BudgetCoach
+`[Tech]` `[Tech]` `[Tech]` `[Tech]`
 
-Personal finance application for expense tracking, daily targets, streaks, and financial visualization.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Tech Stack:**  
-Flask | Python | SQLite | Data Visualization
+### [emoji] [Project Name](repo-link)
+[One or two lines — what it does and who it's for.]
 
----
+`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+
+</td>
+<td width="50%" valign="top">
+
+### [emoji] [Project Name](repo-link)
+[One or two lines — what it does and who it's for.]
+
+`[Tech]` `[Tech]` `[Tech]` `[Tech]`
+
+</td>
+</tr>
+</table>
+
+### [emoji] [Project Name](repo-link)
+[One or two lines — what it does and who it's for, for a project that stands alone rather than pairing in the grid above.]
+
+`[Tech]` `[Tech]` `[Tech]`
 
 ## Currently Learning
 
