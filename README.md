@@ -115,14 +115,6 @@ A personal finance tracker with a dark UI, daily/weekly/monthly spend stats, bud
 ## GitHub Activity
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="3D contribution calendar" src="https://raw.githubusercontent.com/mekhanaa/mekhanaa/profile-3d-contrib/profile-green-animate.svg" width="100%"/>
-</picture>
-</div>
-
-<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mekhanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekhanaa&theme=tokyonight&hide_border=true" height="165"/>
 </div>
