@@ -1,144 +1,120 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Mekhana%20Rajesh&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=Mathematics%20%E2%86%92%20Data%20%26%20AI&descSize=16&descAlignY=60&descColor=a8d8ea&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Math%20-%3E%20Tech&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-Final-year MCA Student · CUSAT — BSc Mathematics, MG University
+  MCA Student @ CUSAT | Mathematics Graduate | AI & Data Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekhana-rajesh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mekhanaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mekhana_Rajesh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekhana-rajesh)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
-<br>
+---
 
-## About
+## About Me
 
-A math graduate who moved into software with the same habit — work out the logic before writing the code. Most of what I build sits at the intersection of **data, NLP, and full-stack development**: resume-parsing engines, retrieval chatbots, and the occasional Flask app that tracks where my own money went.
+```python
+mekhana = {
+    "name"        : "Mekhana Rajesh",
+    "location"    : "Kerala, India",
+    "education"   : ["MCA @ CUSAT (2025 - Present)", "BSc Mathematics @ MG University (2021 - 2024)"],
+    "interests"   : ["Data Science", "AI & Machine Learning", "Statistical Analysis", "Programming Languages "],
+    "currently"   : "Learning DSA, ML, RAG system and SQL",
+    "edge"        : "Strong mathematical reasoning guiding technical growth"
+}
+```
 
-Currently deep in internships across ML and generative AI, and finishing an MCA with data analytics as the target.
+> "My BSc Mathematics foundation shapes how I approach problems -- I think about the logic before I write the code."
 
-<br>
+---
 
-## Tech Stack
+## Tech Stack and Skills
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-**Web & APIs**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Data Science and Machine Learning**
 
-**Data, ML & NLP**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-8B5CF6?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Applied-2E7D32?style=flat-square)
 
-**Tools**
+**AI and NLP**
+
+![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-4CAF50?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-AI_Applications-8B5CF6?style=flat-square)
+
+**Tools and Platforms**
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-<br>
+---
 
-## Featured Projects
+# Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Elevora — Career Path Engine
 
-### 🧭 [Elevora](https://github.com/mekhanaa/Elevora)
-AI career-intelligence platform for Indian freshers — parses a resume against a job description and returns skill gaps, a readiness score, and a downloadable report.
+AI-powered platform that analyzes resumes, extracts skills, compares job descriptions, and provides personalized career insights.
 
-`React` `Flask` `spaCy` `D3.js` `SQLite` `ReportLab`
+**Tech Stack:**  
+React | Tailwind CSS | Flask | spaCy | Machine Learning | D3.js
 
-</td>
-<td width="50%" valign="top">
 
-### 🗺️ SkillMap 2.0
-End-to-end pipeline: resume upload → skill extraction → JD comparison → gap analysis → readiness score → learning roadmap → interview-question prediction → PDF report.
+## BudgetCoach
 
-`Flask` `spaCy` `PyMuPDF` `React (Vite)`
+Personal finance application for expense tracking, daily targets, streaks, and financial visualization.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:**  
+Flask | Python | SQLite | Data Visualization
 
-### 💬 Sahachari AI
-A retrieval-augmented chatbot — embeds and reranks documents before generating answers, rather than relying on the LLM alone.
+---
 
-`FastAPI` `ChromaDB` `BGE Embeddings` `BGE Reranker` `Qwen2.5`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 ChatSeek
-Analytics platform for ChatGPT conversation exports — scrapes, structures, and surfaces patterns in chat history.
-
-`React` `FastAPI` `Playwright`
-
-</td>
-</tr>
-</table>
-
-### 💰 BudgetCoach
-A personal finance tracker with a dark UI, daily/weekly/monthly spend stats, budget warnings, savings prediction, and a small streak-based gamification layer.
-
-`Flask` `Python` `SQLite`
-
-<br>
-
-## Achievements & Certifications
+## Achievements and Certifications
 
 | Achievement | Issuing Body |
 |---|---|
-| Data Science Mathematics Skills | Duke University (Coursera) |
+| Data Science Mathematics Skills | Duke University via Coursera |
 | Gemini Academy | Google |
-| Voice of Stakeholders (VoS) — Young Innovators | Kerala Development and Innovation Strategic Council |
+| Voice of Stakeholders (VoS) -- Young Innovators | Kerala Development and Innovation Strategic Council |
 | Introduction to Internet of Things | NPTEL |
 | Python Programming | Youth Employability Skill Training Co-op |
 | Super Searchers Workshop | upEducators |
 
-<br>
+---
 
-## GitHub Activity
+## Currently Learning
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mekhanaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mekhanaa&theme=tokyonight&hide_border=true" height="165"/>
-</div>
+![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-Learning-FF6B35?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Improving-8B5CF6?style=flat-square)
+![Cloud computing](https://img.shields.io/badge/Deep_Learning-Exploring-9333EA?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-RAG_and_LLMs-10A37F?style=flat-square)
+![Backend Development](https://img.shields.io/badge/Backend_Development-APIs_and_Services-009688?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-Basics-2563EB?style=flat-square)
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekhanaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<br>
-
-## Currently
-
-![DSA](https://img.shields.io/badge/DSA-in_progress-FF6B35?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-sharpening-8B5CF6?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_%26_LLMs-exploring-10A37F?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend_APIs-building-009688?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-practicing-2563EB?style=flat-square)
-
-<br>
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
-Open to data science / ML roles — always happy to talk about a project above.
+  <br>
+
+  Building at the intersection of Mathematics, AI, and Software Engineering.
+
+  <br><br>
+
+  Thanks for visiting! Let's connect and build something meaningful
 
 </div>
-
