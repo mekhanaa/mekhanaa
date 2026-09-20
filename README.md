@@ -91,7 +91,7 @@ Personal finance application for expense tracking, budgeting, spending analysis,
 
 <td width="33%" valign="top">
 
-### [Sahachari AI](YOUR_SAHACHARI_REPO_LINK)
+### [Sahachari AI](https://github.com/vineethjr/sahachari-ai-service.git)
 
 RAG-based conversational system designed to retrieve relevant information and generate contextual responses.
 
