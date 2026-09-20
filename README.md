@@ -1,120 +1,770 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mekhana%20Rajesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Math%20-%3E%20Tech&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" width="100%"/>
-</div>
+<!--
+============================================================
+  README TEMPLATE — replace/remove placeholders as needed
+  Sections are marked CORE / OPTIONAL / ADVANCED.
+  Delete anything that doesn't apply to your project.
+============================================================
+-->
 
-<div align="center">
+<!-- ============ CORE: HERO / HEADER ============ -->
 
-  MCA Student @ CUSAT | Mathematics Graduate | AI & Data Enthusiast
+<!-- OPTIONAL: Theme-aware banner (shows a different image for light/dark GitHub theme) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[DARK IMAGE URL]">
+  <source media="(prefers-color-scheme: light)" srcset="[LIGHT IMAGE URL]">
+  <img alt="[ACCESSIBLE IMAGE DESCRIPTION]" src="[DEFAULT IMAGE URL]">
+</picture>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mekhana_Rajesh-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mekhana-rajesh)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+# [PROJECT NAME]
 
-</div>
+**[SHORT TAGLINE]**
+
+[ONE-SENTENCE DESCRIPTION]
+
+<!-- OPTIONAL: badges — only include ones that are real and wired up -->
+[BUILD STATUS] [LICENSE] [VERSION] [LANGUAGE] [STATUS]
+
+[Live Demo]([URL]) · [Documentation]([URL]) · [Repository]([URL])
 
 ---
 
-## About Me
+<!-- OPTIONAL: Quick navigation — internal links to sections below -->
+[Overview](#one-minute-overview) · [Features](#feature-showcase) · [Demo](#screenshot--product-tour) · [Architecture](#architecture) · [Setup](#getting-started) · [Usage](#usage) · [Testing](#testing)
 
-```python
-mekhana = {
-    "name"        : "Mekhana Rajesh",
-    "location"    : "Kerala, India",
-    "education"   : ["MCA @ CUSAT (2025 - Present)", "BSc Mathematics @ MG University (2021 - 2024)"],
-    "interests"   : ["Data Science", "AI & Machine Learning", "Statistical Analysis", "Programming Languages "],
-    "currently"   : "Learning DSA, ML, RAG system and SQL",
-    "edge"        : "Strong mathematical reasoning guiding technical growth"
+<br>
+
+<!-- ============ CORE: PROJECT SNAPSHOT ============ -->
+
+## Project Snapshot
+
+|                       |                    |
+| --------------------- | ------------------ |
+| **Type**               | [PROJECT TYPE]     |
+| **Status**             | [STATUS]           |
+| **Version**            | [VERSION]          |
+| **Frontend**           | [TECHNOLOGY]       |
+| **Backend**            | [TECHNOLOGY]       |
+| **Database**           | [TECHNOLOGY]       |
+| **Primary Language**   | [LANGUAGE]         |
+| **License**            | [LICENSE]          |
+
+<br>
+
+## One-Minute Overview
+
+**Problem**
+[PROBLEM]
+
+**Solution**
+[SOLUTION]
+
+**Users**
+[TARGET USERS]
+
+**Result**
+[WHAT THE PROJECT ENABLES]
+
+<br>
+
+<!-- ============ CORE: WHY THIS PROJECT ============ -->
+
+## Why This Project?
+
+> [SHORT PROJECT MOTIVATION]
+
+- [Problem noticed]
+- [Reason for building it]
+- [What you wanted to explore]
+- [What makes the project interesting]
+
+<br>
+
+<!-- ============ CORE: FEATURE SHOWCASE ============ -->
+
+## Feature Showcase
+
+### [FEATURE NAME]
+[DESCRIPTION]
+
+### [FEATURE NAME]
+[DESCRIPTION]
+
+### [FEATURE NAME]
+[DESCRIPTION]
+
+<details>
+<summary><strong>All capabilities</strong></summary>
+
+| Capability  | Description   |
+| ----------- | -------------- |
+| [FEATURE]   | [DESCRIPTION]  |
+| [FEATURE]   | [DESCRIPTION]  |
+| [FEATURE]   | [DESCRIPTION]  |
+
+</details>
+
+<br>
+
+<!-- OPTIONAL: "At a glance" quick-fact block. Prefer the table if the ASCII box renders oddly on your profile. -->
+<details>
+<summary><strong>At a glance</strong> (optional block)</summary>
+
+```text
+┌─────────────────────────────────────┐
+│ [KEY FACT]        [KEY FACT]        │
+│ [KEY FACT]        [KEY FACT]        │
+└─────────────────────────────────────┘
+```
+
+Markdown-table alternative:
+
+| Fact        | Value       |
+| ----------- | ----------- |
+| [KEY FACT]  | [VALUE]     |
+| [KEY FACT]  | [VALUE]     |
+
+</details>
+
+<br>
+
+<!-- ============ CORE: SCREENSHOTS / DEMO ============ -->
+
+## Screenshot / Product Tour
+
+![Main interface - [DESCRIPTION]]([IMAGE URL])
+
+### [SCREEN / FEATURE NAME]
+[IMAGE]
+[SHORT EXPLANATION]
+
+### [SCREEN / FEATURE NAME]
+[IMAGE]
+[SHORT EXPLANATION]
+
+<!-- OPTIONAL: Add a short GIF demonstrating the main workflow -->
+![Demo]([GIF URL])
+
+<!-- OPTIONAL: Video demo -->
+### Demo Video
+[VIDEO / YOUTUBE / DEMO LINK]
+[WHAT THE VIDEO SHOWS]
+
+<br>
+
+<!-- ============ CORE: HOW IT WORKS ============ -->
+
+## How It Works
+
+```text
+[INPUT]
+   ↓
+[PROCESSING]
+   ↓
+[CORE LOGIC]
+   ↓
+[DATA / SERVICE]
+   ↓
+[OUTPUT]
+```
+
+<br>
+
+<!-- ============ OPTIONAL: ARCHITECTURE ============ -->
+
+## Architecture
+
+```text
+[CLIENT]
+   │
+   ▼
+[FRONTEND]
+   │
+   ▼
+[API / BACKEND]
+   │
+   ├──► [SERVICE]
+   │
+   ├──► [PROCESSING]
+   │
+   └──► [DATABASE]
+```
+
+<!-- OPTIONAL: Mermaid diagram (renders natively on GitHub) -->
+```mermaid
+flowchart TD
+    A[User] --> B[Frontend]
+    B --> C[Backend]
+    C --> D[Database]
+    C --> E[External Service]
+```
+
+### Architecture Notes
+- [COMPONENT] — [RESPONSIBILITY]
+- [COMPONENT] — [RESPONSIBILITY]
+- [COMPONENT] — [RESPONSIBILITY]
+
+<br>
+
+<!-- OPTIONAL: DATA FLOW — for projects that process/transform data -->
+## Data Flow
+
+```text
+[DATA SOURCE]
+      ↓
+[VALIDATION]
+      ↓
+[PROCESSING]
+      ↓
+[TRANSFORMATION]
+      ↓
+[STORAGE / MODEL]
+      ↓
+[OUTPUT]
+```
+
+**Input:** [INPUT]
+**Transformation:** [TRANSFORMATION]
+**Output:** [OUTPUT]
+
+<br>
+
+<!-- ============ CORE: TECH STACK ============ -->
+
+## Tech Stack
+
+| Layer    | Technology   | Purpose   |
+| -------- | ------------ | --------- |
+| Language | [TECHNOLOGY] | [PURPOSE] |
+| Frontend | [TECHNOLOGY] | [PURPOSE] |
+| Backend  | [TECHNOLOGY] | [PURPOSE] |
+| Database | [TECHNOLOGY] | [PURPOSE] |
+| API      | [TECHNOLOGY] | [PURPOSE] |
+| Testing  | [TECHNOLOGY] | [PURPOSE] |
+| Tooling  | [TECHNOLOGY] | [PURPOSE] |
+
+<details>
+<summary>Additional categories (optional)</summary>
+
+| Category         | Technology   | Purpose   |
+| ----------------- | ------------ | --------- |
+| Infrastructure     | [TECHNOLOGY] | [PURPOSE] |
+| Deployment         | [TECHNOLOGY] | [PURPOSE] |
+| Authentication     | [TECHNOLOGY] | [PURPOSE] |
+| Data Processing    | [TECHNOLOGY] | [PURPOSE] |
+| ML / NLP           | [TECHNOLOGY] | [PURPOSE] |
+| Visualization      | [TECHNOLOGY] | [PURPOSE] |
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: TECHNOLOGY DECISIONS ============ -->
+<details>
+<summary><strong>Technology Decisions</strong> (advanced, optional)</summary>
+
+### [TECHNOLOGY / DECISION]
+**Why:** [REASON]
+**Alternative considered:** [ALTERNATIVE]
+**Trade-off:** [TRADE-OFF]
+
+### [TECHNOLOGY / DECISION]
+**Why:** [REASON]
+**Alternative considered:** [ALTERNATIVE]
+**Trade-off:** [TRADE-OFF]
+
+</details>
+
+<br>
+
+<!-- ============ CORE: PROJECT STRUCTURE ============ -->
+
+## Project Structure
+
+```text
+[PROJECT]/
+├── [FOLDER]/
+│   ├── [FILE]
+│   └── [FILE]
+├── [FOLDER]/
+├── [CONFIG]
+├── [DEPENDENCIES]
+└── README.md
+```
+
+- `[FOLDER]/` — [WHAT IT CONTAINS]
+- `[FOLDER]/` — [WHAT IT CONTAINS]
+
+<br>
+
+<!-- ============ OPTIONAL: API SECTION ============ -->
+
+## API Reference
+
+| Method   | Endpoint    | Purpose   | Auth      |
+| -------- | ----------- | --------- | --------- |
+| `[GET]`  | `[/endpoint]` | [PURPOSE] | [YES/NO] |
+| `[POST]` | `[/endpoint]` | [PURPOSE] | [YES/NO] |
+
+**Request**
+```json
+{
+  "[FIELD]": "[VALUE]"
 }
 ```
 
-> "My BSc Mathematics foundation shapes how I approach problems -- I think about the logic before I write the code."
+**Response**
+```json
+{
+  "[FIELD]": "[VALUE]"
+}
+```
+
+<br>
+
+<!-- ============ ADVANCED: DATABASE / DATA MODEL ============ -->
+<details>
+<summary><strong>Database / Data Model</strong> (advanced, optional)</summary>
+
+```text
+[ENTITY]
+├── [FIELD]
+├── [FIELD]
+└── [FIELD]
+```
+
+| Entity   | Purpose       |
+| -------- | -------------- |
+| [ENTITY] | [DESCRIPTION]  |
+| [ENTITY] | [DESCRIPTION]  |
+
+</details>
+
+<br>
+
+<!-- ============ CORE: GETTING STARTED ============ -->
+
+## Getting Started
+
+### Prerequisites
+- [REQUIREMENT]
+- [REQUIREMENT]
+
+### Installation
+```bash
+git clone [REPOSITORY URL]
+cd [PROJECT DIRECTORY]
+[INSTALL COMMAND]
+```
+
+### Configuration
+```env
+[VARIABLE]=[VALUE]
+[VARIABLE]=[VALUE]
+```
+
+### Run
+```bash
+[RUN COMMAND]
+```
+
+<br>
+
+## Usage
+
+1. [STEP]
+2. [STEP]
+3. [STEP]
+4. [STEP]
+
+<br>
+
+<!-- ============ OPTIONAL: EXAMPLE ============ -->
+
+## Example
+
+```text
+Input:
+[INPUT]
+
+↓ Processing:
+[PROCESS]
+
+↓ Output:
+[OUTPUT]
+```
+
+<!-- OPTIONAL: CLI/API example -->
+```bash
+curl -X [METHOD] "[URL]" \
+  -H "[HEADER]" \
+  -d '[REQUEST]'
+```
+
+Response:
+```json
+{
+  "[FIELD]": "[VALUE]"
+}
+```
+
+<br>
+
+<!-- ============ CORE: TESTING ============ -->
+
+## Testing
+
+```bash
+[TEST COMMAND]
+```
+
+**Test areas**
+- [AREA]
+- [AREA]
+- [AREA]
+
+<br>
+
+<!-- ============ ADVANCED: EDGE CASES ============ -->
+<details>
+<summary><strong>Edge Cases</strong> (advanced, optional)</summary>
+
+| Case        | Expected Behaviour |
+| ----------- | -------------------- |
+| [EDGE CASE] | [BEHAVIOUR]          |
+| [EDGE CASE] | [BEHAVIOUR]          |
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: PERFORMANCE ============ -->
+<details>
+<summary><strong>Performance Notes</strong> (advanced, optional — never insert fabricated numbers)</summary>
+
+**Metric:** [METRIC]
+**Measurement:** [VALUE]
+**Environment:** [ENVIRONMENT]
+**Method:** [HOW IT WAS MEASURED]
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: SECURITY ============ -->
+
+## Security Considerations
+- [MECHANISM]
+- [MECHANISM]
+- [MECHANISM]
+
+<br>
+
+<!-- ============ ADVANCED: ACCESSIBILITY ============ -->
+<details>
+<summary><strong>Accessibility</strong> (advanced, optional)</summary>
+
+- [ACCESSIBILITY FEATURE]
+- [ACCESSIBILITY FEATURE]
+- [ACCESSIBILITY FEATURE]
+
+Meaningful `alt` text example:
+```html
+<img src="[IMAGE URL]" alt="[MEANINGFUL DESCRIPTION]">
+```
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: PLATFORM SUPPORT ============ -->
+
+## Platform Support
+
+| Platform   | Status   |
+| ---------- | -------- |
+| [PLATFORM] | [STATUS] |
+| [PLATFORM] | [STATUS] |
+
+<br>
+
+<!-- ============ CORE: LIMITATIONS ============ -->
+
+## Limitations
+- [LIMITATION]
+- [LIMITATION]
+- [LIMITATION]
+
+<!-- OPTIONAL: known issues table -->
+<details>
+<summary>Known Issues</summary>
+
+| Issue   | Status       | Notes   |
+| ------- | ------------ | ------- |
+| [ISSUE] | [OPEN/FIXED] | [NOTES] |
+
+</details>
+
+<br>
+
+<!-- ============ CORE: ROADMAP ============ -->
+
+## Roadmap
+
+```text
+[x] [COMPLETED]
+[x] [COMPLETED]
+[ ] [NEXT]
+[ ] [PLANNED]
+```
+
+**Now** — [ITEM]
+**Next** — [ITEM]
+**Later** — [ITEM]
+
+<br>
+
+<!-- ============ ADVANCED: CHANGELOG ============ -->
+<details>
+<summary><strong>Changelog</strong> (advanced, optional — or keep this in a separate CHANGELOG.md if the project grows)</summary>
+
+### [VERSION] — [DATE]
+- [CHANGE]
+- [CHANGE]
+
+### [VERSION] — [DATE]
+- [CHANGE]
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: CONTRIBUTING ============ -->
+
+## Contributing
+
+1. [Fork / branch instructions]
+2. [Development instructions]
+3. [Testing]
+4. [Pull request expectations]
+
+See [CONTRIBUTING.md]([LINK]) for details.
+
+<!-- OPTIONAL: development workflow diagram -->
+<details>
+<summary>Development workflow</summary>
+
+```text
+Issue
+  ↓
+Branch
+  ↓
+Development
+  ↓
+Testing
+  ↓
+Pull Request
+  ↓
+Review
+  ↓
+Merge
+```
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: RELEASES ============ -->
+<details>
+<summary>Releases</summary>
+
+| Version   | Date   | Highlights |
+| --------- | ------ | ---------- |
+| [VERSION] | [DATE] | [CHANGE]   |
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: SUPPORT ============ -->
+
+## Support
+
+Found a problem or have a question? [SUPPORT METHOD]
+
+- Documentation: [LINK]
+- Issues: [LINK]
+- Discussions: [LINK]
+- Contact: [EMAIL]
+
+<br>
+
+<!-- ============ OPTIONAL: FAQ ============ -->
+
+## FAQ
+
+<details>
+<summary>What is [PROJECT NAME]?</summary>
+
+[ANSWER]
+
+</details>
+
+<details>
+<summary>[QUESTION]</summary>
+
+[ANSWER]
+
+</details>
+
+<details>
+<summary>[QUESTION]</summary>
+
+[ANSWER]
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: TROUBLESHOOTING ============ -->
+
+## Troubleshooting
+
+<details>
+<summary>[COMMON PROBLEM]</summary>
+
+[CAUSE]
+
+**Solution:** [SOLUTION]
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: BENCHMARKS ============ -->
+<details>
+<summary><strong>Benchmarks / Comparison</strong> (advanced, optional — only if you have real, measured results)</summary>
+
+| Approach   | Metric   | Result   |
+| ---------- | -------- | -------- |
+| [APPROACH] | [METRIC] | [RESULT] |
+| [APPROACH] | [METRIC] | [RESULT] |
+
+</details>
+
+<br>
+
+<!-- ============ CORE: LEARNINGS / CHALLENGES ============ -->
+
+## What I Learned
+- [LESSON]
+- [LESSON]
+- [LESSON]
+
+### Challenges & Solutions
+
+| Challenge   | Approach   |
+| ----------- | ---------- |
+| [CHALLENGE] | [SOLUTION] |
+| [CHALLENGE] | [SOLUTION] |
+
+<!-- OPTIONAL: engineering highlights -->
+<details>
+<summary>Engineering Highlights</summary>
+
+- [TECHNICAL HIGHLIGHT]
+- [TECHNICAL HIGHLIGHT]
+- [TECHNICAL HIGHLIGHT]
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: PROJECT METRICS ============ -->
+<details>
+<summary>Project Metrics (optional — real numbers only, e.g. via cloc)</summary>
+
+- Lines of code: `[LINES OF CODE]`
+- Modules: `[NUMBER OF MODULES]`
+- Tests: `[NUMBER OF TESTS]`
+- Endpoints: `[NUMBER OF ENDPOINTS]`
+
+</details>
+
+<!-- ============ ADVANCED: REPOSITORY HEALTH ============ -->
+<details>
+<summary>Repository Health (optional — only real, wired-up badges)</summary>
+
+`[CI]` `[TESTS]` `[LICENSE]` `[SECURITY]`
+
+</details>
+
+<br>
+
+<!-- ============ ADVANCED: CITATION ============ -->
+<details>
+<summary>Citation (for academic / research projects)</summary>
+
+```bibtex
+@software{[CITATION KEY],
+  author = {[AUTHOR]},
+  title  = {[PROJECT TITLE]},
+  year   = {[YEAR]},
+  url    = {[URL]}
+}
+```
+
+**How to cite:** [INSTRUCTIONS]
+
+</details>
+
+<br>
+
+<!-- ============ OPTIONAL: ACKNOWLEDGEMENTS / RELATED ============ -->
+
+## Acknowledgements
+- [LIBRARY]
+- [DATASET]
+- [RESOURCE]
+- [PERSON / ORGANIZATION]
+
+<details>
+<summary>Related Projects</summary>
+
+- [PROJECT]
+- [PROJECT]
+
+</details>
+
+<br>
 
 ---
 
-## Tech Stack and Skills
+<!-- ============ CORE: AUTHOR ============ -->
 
-**Languages**
+## Author
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+**[YOUR NAME]**
 
-**Data Science and Machine Learning**
+`[YOUR PROFESSIONAL TAGLINE]`
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-Applied-2E7D32?style=flat-square)
+[GitHub]([URL]) · [LinkedIn]([URL]) · [Portfolio]([URL]) · [Email]([EMAIL])
 
-**AI and NLP**
+<br>
 
-![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-4CAF50?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-AI_Applications-8B5CF6?style=flat-square)
+<!-- ============ CORE: LICENSE ============ -->
 
-**Tools and Platforms**
+## License
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+[LICENSE NAME]
 
----
+[SHORT DESCRIPTION / LINK TO LICENSE FILE]
 
-# Featured Projects
+<br>
 
-## Elevora — Career Path Engine
+<!-- ============ FOOTER — pick one style, delete the rest ============ -->
 
-AI-powered platform that analyzes resumes, extracts skills, compares job descriptions, and provides personalized career insights.
+<sub>Built by [YOUR NAME] · [YEAR]</sub>
 
-**Tech Stack:**  
-React | Tailwind CSS | Flask | spaCy | Machine Learning | D3.js
-
-
-## BudgetCoach
-
-Personal finance application for expense tracking, daily targets, streaks, and financial visualization.
-
-**Tech Stack:**  
-Flask | Python | SQLite | Data Visualization
-
----
-
-## Achievements and Certifications
-
-| Achievement | Issuing Body |
-|---|---|
-| Data Science Mathematics Skills | Duke University via Coursera |
-| Gemini Academy | Google |
-| Voice of Stakeholders (VoS) -- Young Innovators | Kerala Development and Innovation Strategic Council |
-| Introduction to Internet of Things | NPTEL |
-| Python Programming | Youth Employability Skill Training Co-op |
-| Super Searchers Workshop | upEducators |
-
----
-
-## Currently Learning
-
-![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-Learning-FF6B35?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Improving-8B5CF6?style=flat-square)
-![Cloud computing](https://img.shields.io/badge/Deep_Learning-Exploring-9333EA?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-RAG_and_LLMs-10A37F?style=flat-square)
-![Backend Development](https://img.shields.io/badge/Backend_Development-APIs_and_Services-009688?style=flat-square)
-![System Design](https://img.shields.io/badge/System_Design-Basics-2563EB?style=flat-square)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-
-  <br>
-
-  Building at the intersection of Mathematics, AI, and Software Engineering.
-
-  <br><br>
-
-  Thanks for visiting! Let's connect and build something meaningful
-
-</div>
+<!-- Alternative:
+<sub>[PROJECT NAME] · [YEAR] · [LICENSE]</sub>
+-->
