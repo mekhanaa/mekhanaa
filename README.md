@@ -80,7 +80,7 @@ Career intelligence platform that analyzes resumes against job descriptions, ext
 
 <td width="33%" valign="top">
 
-### [BudgetCoach](https://github.com/mekhanaa/BudgetCoach)
+### [BudgetCoach](https://github.com/mekhanaa/BudgetCoach.git)
 
 Personal finance application for expense tracking, budgeting, spending analysis, and financial visualization.
 
