@@ -82,19 +82,6 @@ Flask | Python | SQLite | Data Visualization
 
 ---
 
-## Achievements and Certifications
-
-| Achievement | Issuing Body |
-|---|---|
-| Data Science Mathematics Skills | Duke University via Coursera |
-| Gemini Academy | Google |
-| Voice of Stakeholders (VoS) -- Young Innovators | Kerala Development and Innovation Strategic Council |
-| Introduction to Internet of Things | NPTEL |
-| Python Programming | Youth Employability Skill Training Co-op |
-| Super Searchers Workshop | upEducators |
-
----
-
 ## Currently Learning
 
 ![DSA](https://img.shields.io/badge/Data_Structures_and_Algorithms-Learning-FF6B35?style=flat-square)
