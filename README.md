@@ -26,7 +26,7 @@ mekhana = {
 }
 ```
 
-> "My BSc Mathematics foundation shapes how I approach problems -- I think about the logic before I write the code."
+> "My Mathematics foundation shapes how I approach problems -- I think about the logic before I write the code."
 
 ---
 
